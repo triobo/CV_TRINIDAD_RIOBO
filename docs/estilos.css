@@ -36,6 +36,14 @@ body {
     color: #003366; /* Azul UC sobrio */
     border-bottom: 2px solid #003366;
     padding-bottom: 5px;
+
+    .foto-perfil {
+        width: 200px;
+        border-radius: 8px;
+        display: block;
+        margin: 20px auto;
+      }
+      
   }
   
   ul {
